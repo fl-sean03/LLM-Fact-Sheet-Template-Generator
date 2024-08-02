@@ -9,7 +9,7 @@ To install and run the project locally, follow these steps:
 1. Clone the repository:
     ```bash
     git clone https://github.com/fl-sean03/LLM-Fact-Sheet-Template-Generator
-    cd fact-sheet-generator
+    cd LLM-Fact-Sheet-Template-Generator
     ```
 
 2. Create a virtual environment and activate it:
